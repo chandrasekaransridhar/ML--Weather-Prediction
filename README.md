@@ -21,7 +21,7 @@ Program to implement the Random Forest Algorithm to predict daily temperature , 
 **Developed by: SRIDHAR C <br>
 RegisterNumber: 212225040425**
 ## Program:
-```
+```py
 
 
 
